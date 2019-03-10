@@ -2,7 +2,7 @@
 
 ### ioBroker.find-my-iphone 
 
-[![NPM version](http://img.shields.io/npm/v/iobroker.find-my-iphone.svg)](https://www.npmjs.com/package/iobroker.find-my-iphone)
+![Number of Installations](http://iobroker.live/badges/find-my-iphone-community-installed.svg) ![Number of Installations](http://iobroker.live/badges/find-my-iphone-community-stable.svg) [![NPM version](http://img.shields.io/npm/v/iobroker.find-my-iphone.svg)](https://www.npmjs.com/package/iobroker.find-my-iphone)
 [![Tests](http://img.shields.io/travis/soef/ioBroker.find-my-iphone/master.svg)](https://travis-ci.org/soef/ioBroker.find-my-iphone)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/soef/iobroker.find-my-iphone/blob/master/LICENSE)
 
