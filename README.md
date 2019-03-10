@@ -17,6 +17,9 @@ ioBroker Adapter to find Apple devices
 
 The adapter tries to read its own location from the adapter ioBroker.javascript. If it is not available, the location of the external IP will be determined. Otherwise 0.0+0.0 will be taken. The location is used zu calculate the distance to the device.
 
+### Initial Creation
+This adapter was initialy created by @soef at https://github.com/soef/ioBroker.find-my-iphone but not maintained any more, so we moved it to iobroker-community so that bugs could be fixed. thanks @soef for his work.
+
 #### Two-step verification (2FA Authentisierung)
 If you are using the "new" Two-Step verification/athentication follow this steps:
 - Step 1: Connect the adapter with your username and password.
