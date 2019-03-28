@@ -1,26 +1,23 @@
 ![Logo](admin/find-my-iphone.png)
-
-### ioBroker.find-my-iphone 
+# Apple find my iphone
 
 ![Number of Installations](http://iobroker.live/badges/find-my-iphone-community-installed.svg) ![Number of Installations](http://iobroker.live/badges/find-my-iphone-community-stable.svg) [![NPM version](http://img.shields.io/npm/v/iobroker.find-my-iphone.svg)](https://www.npmjs.com/package/iobroker.find-my-iphone)
 [![Tests](http://img.shields.io/travis/soef/ioBroker.find-my-iphone/master.svg)](https://travis-ci.org/soef/ioBroker.find-my-iphone)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/soef/iobroker.find-my-iphone/blob/master/LICENSE)
 
-<!--[![Build status](https://ci.appveyor.com/api/projects/status/9n5s1wgam59b4fv9?svg=true)](https://ci.appveyor.com/project/soef/iobroker-find-my-iphone)-->
 
-#### Description
+## Description
 
 ioBroker Adapter to find Apple devices
 
-
-#### Info
+## Info
 
 The adapter tries to read its own location from the adapter ioBroker.javascript. If it is not available, the location of the external IP will be determined. Otherwise 0.0+0.0 will be taken. The location is used zu calculate the distance to the device.
 
 ### Initial Creation
 This adapter was initialy created by @soef at https://github.com/soef/ioBroker.find-my-iphone but not maintained any more, so we moved it to iobroker-community so that bugs could be fixed. thanks @soef for his work.
 
-#### Two-step verification (2FA Authentisierung)
+### Two-step verification (2FA Authentisierung)
 If you are using the "new" Two-Step verification/athentication follow this steps:
 - Step 1: Connect the adapter with your username and password.
 - Step 2: Confirm your registration on one of your devices
@@ -28,7 +25,7 @@ If you are using the "new" Two-Step verification/athentication follow this steps
 <br><br>
 Thanks to Thorsten Voß for this [tip](https://github.com/soef/ioBroker.find-my-iphone/issues/3#issuecomment-289200613).
 
-#### States
+### States
 - **refresh**:<br>
   root: refresh all devices.
   under a device: force the device to relocate and refresh
@@ -53,13 +50,7 @@ Thanks to Thorsten Voß for this [tip](https://github.com/soef/ioBroker.find-my-
 - **Self-explanatory**:<br>
   batteryLevel, longitude, latitide, time, timeState 
 
-#### Installation
-Execute the following command in the iobroker root directory (e.g. in /opt/iobroker)
-```
-npm install iobroker.find-my-iphone 
-```
-<!--
-### License
+## License
 The MIT License (MIT)
 
 Copyright (c) 2016-2017 soef <soef@gmx.net>
@@ -81,4 +72,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
--->
