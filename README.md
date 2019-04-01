@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://github.com/iobroker-community-adapters/ioBroker.find-my-iphone-community/blob/master/admin/find-my-iphone-community.png" width="64"/>
+  <img src="https://raw.githubusercontent.com/ldittmar81/ioBroker.find-my-iphone-community/master/admin/find-my-iphone-community.png" width="64"/>
   ioBroker.find-my-iphone-community
 </h1>
 
