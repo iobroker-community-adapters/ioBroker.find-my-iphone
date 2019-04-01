@@ -1,0 +1,12 @@
+{
+    "2FA": "Chave para verificação em duas etapas",
+    "Find my iPhone": "Encontre meu iphone",
+    "Settings": "Definições",
+    "Step1": "Passo 1: Preencha apenas o nome de usuário e senha, salve e inicie o adaptador",
+    "Step2": "Etapa 2: confirme seu registro em um dos seus dispositivos.",
+    "Step3": "Passo 3: Agora digite o código de 6 dígitos no campo-chave.",
+    "Two-step verification": "Verificação em duas etapas:",
+    "leave empty": "(senão deixe enpty)",
+    "on save adapter restarts with new config immediately": "on save adapter reinicia com nova configuração imediatamente",
+    "pollIntervall": "Poll Intervall"
+}

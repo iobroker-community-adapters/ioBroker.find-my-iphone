@@ -1,4 +1,6 @@
-﻿"use strict";
+/* global refefreshTimer, devices, __dirname */
+
+"use strict";
 
 var soef = require('soef');
 var ICloud =  require(__dirname + '/lib/icloud');
@@ -27,7 +29,7 @@ function onUnload(cb) {
     for (var i in devices) {
         if (devices[i].refreshTimer) {
             clearTimeout(devices[i].refreshTimer);
-            delete devices[i].refreshTimer
+            delete devices[i].refreshTimer;
         }
     }
     iCloud = null;
@@ -153,7 +155,7 @@ function updateWithTimer(device, val, cb) {
     val = valtype (val);
     if ((bo = typeof val === 'boolean')) {
         cnt = 4;
-        timeout = 15000
+        timeout = 15000;
     } else {
         if ((time = ~~val) <= 0) return;  // time to refresh in minutes
         cnt = time * 2;
@@ -343,7 +345,7 @@ function updateDevice(deviceId, callback) {
         func = function(device, doIt) {
             if (device.id !== deviceId && device.id !== deviceId.device) return doIt();
             updateOurState(device, callback.bind(1, device));
-        }
+        };
     }
     forEachAppleDevice(deviceId, func, callback);
 }
@@ -393,7 +395,7 @@ function setRestartScheduler() {
             obj.common.restartSchedule = "0 3 * * *";
             adapter.setForeignObject('system.adapter.' + adapter.namespace, obj);
         }
-    })
+    });
 }
 
 

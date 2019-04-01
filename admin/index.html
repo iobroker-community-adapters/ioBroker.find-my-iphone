@@ -12,56 +12,10 @@
 <link rel="stylesheet" type="text/css" href="../../css/adapter.css"/>
 <script type="text/javascript" src="../../js/translate.js"></script>
 <script type="text/javascript" src="../../js/adapter-settings.js"></script>
-
+<script type="text/javascript" src="words.js"></script>
 
 <!-- you have to define 2 functions in the global scope: -->
 <script type="text/javascript">
-
-    // Dictionary (systemDictionary is global variable from adapter-settings.js)
-    systemDictionary = {
-        "Find my iPhone": {
-            "de": "Find my iPhone Einstellungen",
-            "ru": "Пример"
-        },
-        "Settings": {
-            "de": "Einstellungen",
-            "ru": "Settings"
-        },
-        "on save adapter restarts with new config immediately": {
-            "de": "Beim Speichern der Einstellungen wird der Adapter automatisch neu gestartet.",
-            "ru": "Сразу после сохранения настроек драйвер перезапуститься с новыми значениями"
-        },
-        "pollIntervall": {
-            "de": "Pollintervall",
-            "en": "Poll Intervall"
-        },
-        "2FA": {
-            "en": "Key for two-step verification",
-            "de": "Key für 2 Faktor-Authentifizierung"
-        },
-        "Two-step verification": {
-            "en": "Two-step verification:",
-            "de": "Zwei-Faktor-Authentifizierung:"
-        },
-        "Step1": {
-            "en": "Step 1: Fill out only username and password, Save and start the adapter",
-            "de": "Step 1: Nur den Usernamen und das Passwort einragen, speichern und den adapter starten."
-        },
-        "Step2": {
-            "en": "Step 2: Confirm your registration on one of your devices.",
-            "de": "Step 2: Registrierung auf irgendeinem deiner Gerät bestätigen."
-        },
-        "Step3": {
-            "en": "Step 3: Now enter the 6-digit code in the Key-Field.",
-            "de": "Step 3: Nur den 6-stelligen Code ins Key-Feld eintragen."
-        },
-        "leave empty": {
-            "en": "(else leave enpty)",
-            "de": "(sonst frei lassen)"
-        }
-
-    };
-
 
     var devices = [];
     var active = false;
@@ -293,7 +247,7 @@
     <h1 class="translate">iCloud Account (will be stored encrypted)</h1>
 
     <table>
-        <tr><td class="translate">Apple ID</td><td><input class="value" id="username" type="input" size="15" /></td></tr>
+        <tr><td class="translate">Apple ID</td><td><input class="value" id="username" type="text" size="15" /></td></tr>
         <tr><td class="translate">Password</td><td><input class="value" id="password" type="password" size="15" /></td></tr>
         <tr><td class="translate">2FA</td><td><input class="value" id="key2Step" type="password" size="20" /></td><td class="translate">leave empty</td></tr>
         <!--td><button id="find"><span class="translate">Find a device</span></button></td-->

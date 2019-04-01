@@ -1,0 +1,12 @@
+{
+    "2FA": "Key for two-step verification",
+    "Find my iPhone": "Find my iPhone",
+    "Settings": "Settings",
+    "Step1": "Step 1: Fill out only username and password, Save and start the adapter",
+    "Step2": "Step 2: Confirm your registration on one of your devices.",
+    "Step3": "Step 3: Now enter the 6-digit code in the Key-Field.",
+    "Two-step verification": "Two-step verification:",
+    "leave empty": "(else leave enpty)",
+    "on save adapter restarts with new config immediately": "on save adapter restarts with new config immediately",
+    "pollIntervall": "Poll Intervall"
+}

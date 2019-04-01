@@ -1,6 +1,6 @@
 {
   "name": "iobroker.find-my-iphone-community",
-  "version": "0.2.17",
+  "version": "1.0.0",
   "description": "Find my iPhone",
   "author": {
     "name": "soef",
@@ -12,7 +12,7 @@
       "email": "soef@gmx.net"
     }
   ],
-  "homepage": "https://github.com/soef/iobroker.find-my-iphone",
+  "homepage": "https://github.com/iobroker-community-adapters/ioBroker.find-my-iphone-community",
   "license": "MIT",
   "keywords": [
     "ioBroker",
@@ -26,7 +26,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/soef/iobroker.find-my-iphone"
+    "url": "https://github.com/iobroker-community-adapters/ioBroker.find-my-iphone-community"
   },
   "xdependencies": {
     "find-my-iphone": "^1.1.1",
@@ -43,7 +43,9 @@
   },
   "devDependencies": {
     "mocha": "^4.1.0",
-    "chai": "^4.1.2"
+    "chai": "^4.1.2",
+    "gulp": "^4.0.0",
+    "axios": "^0.18.0"
   },
   "xdevDependencies": {
     "grunt": "^0.4.5",
@@ -55,7 +57,7 @@
     "chai": "^3.4.1"
   },
   "bugs": {
-    "url": "https://github.com/soef/iobroker.find-my-iphone/issues"
+    "url": "https://github.com/iobroker-community-adapters/ioBroker.find-my-iphone-community/issues"
   },
   "readmeFilename": "README.md",
   "main": "find-my-iphone.js",

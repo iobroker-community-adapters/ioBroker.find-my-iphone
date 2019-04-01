@@ -1,0 +1,12 @@
+{
+    "2FA": "Key für 2 Faktor-Authentifizierung",
+    "Find my iPhone": "Findw mein iPhone Einstellungen",
+    "Settings": "Einstellungen",
+    "Step1": "Step 1: Nur den Usernamen und das Passwort einragen, speichern und den adapter starten.",
+    "Step2": "Step 2: Registrierung auf irgendeinem deiner Gerät bestätigen.",
+    "Step3": "Step 3: Nur den 6-stelligen Code ins Key-Feld eintragen.",
+    "Two-step verification": "Zwei-Faktor-Authentifizierung:",
+    "leave empty": "(sonst frei lassen)",
+    "on save adapter restarts with new config immediately": "Beim Speichern der Einstellungen wird der Adapter automatisch neu gestartet.",
+    "pollIntervall": "Pollintervall"
+}

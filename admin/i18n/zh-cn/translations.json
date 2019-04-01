@@ -1,0 +1,12 @@
+{
+    "2FA": "两步验证的关键",
+    "Find my iPhone": "查找我的iPhone",
+    "Settings": "设置",
+    "Step1": "步骤1：仅填写用户名和密码，保存并启动适配器",
+    "Step2": "第2步：确认您在其中一台设备上的注册。",
+    "Step3": "第3步：现在在Key-Field中输入6位数代码。",
+    "Two-step verification": "两步验证：",
+    "leave empty": "（否则请留下enpty）",
+    "on save adapter restarts with new config immediately": "保存适配器立即重新启动新配置",
+    "pollIntervall": "民意调查Intervall"
+}
