@@ -30,11 +30,13 @@
   },
   "xdependencies": {
     "find-my-iphone": "^1.1.1",
+    "soef": "^0.2.1",
     "request": "^2.57.0"
   },
   "dependencies": {
     "os-tmpdir": "^1.0.2",
     "request": "^2.57.0",
+    "soef": "^0.4.0",
     "tough-cookie-filestore": "0.0.1",
     "uuid": "^3.0.1",
     "@iobroker/adapter-core": "^1.0.3"
