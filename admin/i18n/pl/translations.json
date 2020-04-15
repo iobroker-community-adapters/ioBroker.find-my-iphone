@@ -1,0 +1,12 @@
+{
+    "2FA": "Klucz do weryfikacji dwuetapowej",
+    "Find my iPhone": "Znajdź mojego IPhone'a",
+    "Settings": "Ustawienia",
+    "Step1": "Krok 1: Wypełnij tylko nazwę użytkownika i hasło, Zapisz i uruchom adapter",
+    "Step2": "Krok 2: Potwierdź rejestrację na jednym ze swoich urządzeń.",
+    "Step3": "Krok 3: Teraz wprowadź 6-cyfrowy kod w polu klucza.",
+    "Two-step verification": "Weryfikacja dwuetapowa:",
+    "leave empty": "(inaczej zostawić enpty)",
+    "on save adapter restarts with new config immediately": "na adapterze natychmiast uruchamia się ponownie z nową konfiguracją",
+    "pollIntervall": "Ankieta Intervall"
+}

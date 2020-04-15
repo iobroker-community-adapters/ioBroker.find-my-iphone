@@ -1,10 +1,19 @@
-![Logo](admin/find-my-iphone.png)
-# Apple find my iphone
+<h1>
+  <img src="https://raw.githubusercontent.com/ldittmar81/ioBroker.find-my-iphone-community/master/admin/find-my-iphone-community.png" width="64"/>
+  ioBroker.find-my-iphone-community
+</h1>
 
-![Number of Installations](http://iobroker.live/badges/find-my-iphone-community-installed.svg) ![Number of Installations](http://iobroker.live/badges/find-my-iphone-community-stable.svg) [![NPM version](http://img.shields.io/npm/v/iobroker.find-my-iphone.svg)](https://www.npmjs.com/package/iobroker.find-my-iphone)
-[![Tests](http://img.shields.io/travis/soef/ioBroker.find-my-iphone/master.svg)](https://travis-ci.org/soef/ioBroker.find-my-iphone)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/soef/iobroker.find-my-iphone/blob/master/LICENSE) [![Greenkeeper badge](https://badges.greenkeeper.io/iobroker-community-adapters/ioBroker.find-my-iphone-community.svg)](https://greenkeeper.io/)
+![Number of Installations](http://iobroker.live/badges/find-my-iphone-community-installed.svg) 
+![Number of Installations](http://iobroker.live/badges/find-my-iphone-community-stable.svg)
+[![NPM version](http://img.shields.io/npm/v/iobroker.find-my-iphone-community.svg)](https://www.npmjs.com/package/iobroker.find-my-iphone-community)
+[![Downloads](https://img.shields.io/npm/dm/iobroker.find-my-iphone-community.svg)](https://www.npmjs.com/package/iobroker.find-my-iphone-community)
 
+[![NPM](https://nodei.co/npm/iobroker.find-my-iphone-community.png?downloads=true)](https://nodei.co/npm/iobroker.find-my-iphone-community/)
+
+[![Travis-CI](http://img.shields.io/travis/iobroker-community-adapters/ioBroker.find-my-iphone-community/master.svg)](https://travis-ci.org/iobroker-community-adapters/ioBroker.find-my-iphone-community)
+[![Greenkeeper badge](https://badges.greenkeeper.io/iobroker-community-adapters/ioBroker.find-my-iphone-community.svg)](https://greenkeeper.io/)
+[![Dependency Status](https://img.shields.io/david/iobroker-community-adapters/iobroker.find-my-iphone-community.svg)](https://david-dm.org/iobroker-community-adapters/iobroker.find-my-iphone-community)
+[![Known Vulnerabilities](https://snyk.io/test/github/iobroker-community-adapters/ioBroker.find-my-iphone-community/badge.svg)](https://snyk.io/test/github/iobroker-community-adapters/ioBroker.find-my-iphone-community)
 
 ## Description
 
@@ -50,10 +59,15 @@ Thanks to Thorsten Voß for this [tip](https://github.com/soef/ioBroker.find-my-
 - **Self-explanatory**:<br>
   batteryLevel, longitude, latitide, time, timeState 
 
+## Changelog
+
+### 1.0.0 (2019-04-01)
+* (ldittmar) first version for the community
+
 ## License
 The MIT License (MIT)
 
-Copyright (c) 2016-2017 soef <soef@gmx.net>
+Copyright (c) 2015 - 2019 soef <soef@gmx.net>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

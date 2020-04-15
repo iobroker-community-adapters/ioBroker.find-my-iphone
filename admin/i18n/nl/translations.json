@@ -1,0 +1,12 @@
+{
+    "2FA": "Sleutel voor tweestapsverificatie",
+    "Find my iPhone": "Vind mijn iphone",
+    "Settings": "instellingen",
+    "Step1": "Stap 1: Vul alleen gebruikersnaam en wachtwoord in, sla op en start de adapter",
+    "Step2": "Stap 2: Bevestig uw registratie op een van uw apparaten.",
+    "Step3": "Stap 3: Voer nu de 6-cijferige code in het Key-Field in.",
+    "Two-step verification": "Tweestapsverificatie:",
+    "leave empty": "(laat anders enpty)",
+    "on save adapter restarts with new config immediately": "on save-adapter wordt onmiddellijk opnieuw opgestart met nieuwe config",
+    "pollIntervall": "Poll Intervall"
+}
