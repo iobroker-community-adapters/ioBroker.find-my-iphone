@@ -60,6 +60,7 @@
         "type": "geoposition",
         "main": "find-my-iphone.js",
         "messagebox": true,
+        "materialize": true,
         "enabled": true,
         "authors": [
             {
