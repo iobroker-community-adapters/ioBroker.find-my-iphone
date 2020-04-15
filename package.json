@@ -34,19 +34,18 @@
     "request": "^2.57.0"
   },
   "dependencies": {
-    "os-tmpdir": "^1.0.2",
+    "os-tmpdir": "^2.0.0",
     "request": "^2.57.0",
     "soef": "^0.4.0",
     "tough-cookie-filestore": "0.0.1",
-    "uuid": "^3.0.1",
-    "@iobroker/adapter-core": "^1.0.3"
+    "uuid": "^7.0.3",
+    "@iobroker/adapter-core": "^2.3.0"
   },
   "devDependencies": {
     "gulp": "^4.0.0",
-    "mocha": "^6.0.2",
     "chai": "^4.1.2",
-    "@iobroker/testing": "^1.1.10",
     "axios": "^0.18.0"
+    "@iobroker/testing": "^1.1.10",
   },
   "bugs": {
     "url": "https://github.com/iobroker-community-adapters/ioBroker.find-my-iphone-community/issues"
