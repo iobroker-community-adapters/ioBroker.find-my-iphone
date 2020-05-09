@@ -34,7 +34,7 @@
     "request": "^2.57.0"
   },
   "dependencies": {
-    "@iobroker/adapter-core": "^2.3.0",
+    "@iobroker/adapter-core": "^2.3.1",
     "os-tmpdir": "^2.0.0",
     "request": "^2.88.2",
     "soef": "^0.4.0",
