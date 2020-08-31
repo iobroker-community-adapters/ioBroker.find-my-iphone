@@ -11,7 +11,7 @@
 [![NPM](https://nodei.co/npm/iobroker.find-my-iphone-community.png?downloads=true)](https://nodei.co/npm/iobroker.find-my-iphone-community/)
 
 [![Travis-CI](http://img.shields.io/travis/iobroker-community-adapters/ioBroker.find-my-iphone-community/master.svg)](https://travis-ci.org/iobroker-community-adapters/ioBroker.find-my-iphone-community)
-[![Greenkeeper badge](https://badges.greenkeeper.io/iobroker-community-adapters/ioBroker.find-my-iphone-community.svg)](https://greenkeeper.io/)
+
 [![Dependency Status](https://img.shields.io/david/iobroker-community-adapters/iobroker.find-my-iphone-community.svg)](https://david-dm.org/iobroker-community-adapters/iobroker.find-my-iphone-community)
 [![Known Vulnerabilities](https://snyk.io/test/github/iobroker-community-adapters/ioBroker.find-my-iphone-community/badge.svg)](https://snyk.io/test/github/iobroker-community-adapters/ioBroker.find-my-iphone-community)
 
