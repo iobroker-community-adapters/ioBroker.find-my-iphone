@@ -1,6 +1,6 @@
 {
     "common": {
-        "name": "find-my-iphone-community",
+        "name": "find-my-iphone",
         "version": "1.0.0",
         "title": "Find my iPhone",
         "titleLang": {
@@ -53,9 +53,9 @@
         "license": "MIT",
         "platform": "Javascript/Node.js",
         "mode": "daemon",
-        "icon": "find-my-iphone-community.png",
-        "extIcon": "https://raw.githubusercontent.com/iobroker-community-adapters/ioBroker.find-my-iphone-community/master/admin/find-my-iphone.png",
-        "readme": "https://github.com/iobroker-community-adapters/ioBroker.find-my-iphone-community/blob/master/README.md",
+        "icon": "find-my-iphone.png",
+        "extIcon": "https://raw.githubusercontent.com/iobroker-community-adapters/ioBroker.find-my-iphone/master/admin/find-my-iphone.png",
+        "readme": "https://github.com/iobroker-community-adapters/ioBroker.find-my-iphone/blob/master/README.md",
         "loglevel": "info",
         "type": "geoposition",
         "main": "find-my-iphone.js",
