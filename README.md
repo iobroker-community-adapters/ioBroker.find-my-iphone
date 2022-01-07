@@ -1,19 +1,19 @@
 <h1>
-  <img src="https://raw.githubusercontent.com/ldittmar81/ioBroker.find-my-iphone-community/master/admin/find-my-iphone-community.png" width="64"/>
-  ioBroker.find-my-iphone-community
+  <img src="https://raw.githubusercontent.com/ldittmar81/ioBroker.find-my-iphone/master/admin/find-my-iphone.png" width="64"/>
+  ioBroker.find-my-iphone
 </h1>
 
-![Number of Installations](http://iobroker.live/badges/find-my-iphone-community-installed.svg) 
-![Number of Installations](http://iobroker.live/badges/find-my-iphone-community-stable.svg)
-[![NPM version](http://img.shields.io/npm/v/iobroker.find-my-iphone-community.svg)](https://www.npmjs.com/package/iobroker.find-my-iphone-community)
-[![Downloads](https://img.shields.io/npm/dm/iobroker.find-my-iphone-community.svg)](https://www.npmjs.com/package/iobroker.find-my-iphone-community)
+![Number of Installations](http://iobroker.live/badges/find-my-iphone-installed.svg) 
+![Number of Installations](http://iobroker.live/badges/find-my-iphone-stable.svg)
+[![NPM version](http://img.shields.io/npm/v/iobroker.find-my-iphone.svg)](https://www.npmjs.com/package/iobroker.find-my-iphone)
+[![Downloads](https://img.shields.io/npm/dm/iobroker.find-my-iphone.svg)](https://www.npmjs.com/package/iobroker.find-my-iphone)
 
-[![NPM](https://nodei.co/npm/iobroker.find-my-iphone-community.png?downloads=true)](https://nodei.co/npm/iobroker.find-my-iphone-community/)
+[![NPM](https://nodei.co/npm/iobroker.find-my-iphone.png?downloads=true)](https://nodei.co/npm/iobroker.find-my-iphone/)
 
-[![Travis-CI](http://img.shields.io/travis/iobroker-community-adapters/ioBroker.find-my-iphone-community/master.svg)](https://travis-ci.org/iobroker-community-adapters/ioBroker.find-my-iphone-community)
+[![Travis-CI](http://img.shields.io/travis/iobroker-community-adapters/ioBroker.find-my-iphone/master.svg)](https://travis-ci.org/iobroker-community-adapters/ioBroker.find-my-iphone)
 
-[![Dependency Status](https://img.shields.io/david/iobroker-community-adapters/iobroker.find-my-iphone-community.svg)](https://david-dm.org/iobroker-community-adapters/iobroker.find-my-iphone-community)
-[![Known Vulnerabilities](https://snyk.io/test/github/iobroker-community-adapters/ioBroker.find-my-iphone-community/badge.svg)](https://snyk.io/test/github/iobroker-community-adapters/ioBroker.find-my-iphone-community)
+[![Dependency Status](https://img.shields.io/david/iobroker-community-adapters/iobroker.find-my-iphone.svg)](https://david-dm.org/iobroker-community-adapters/iobroker.find-my-iphone)
+[![Known Vulnerabilities](https://snyk.io/test/github/iobroker-community-adapters/ioBroker.find-my-iphone/badge.svg)](https://snyk.io/test/github/iobroker-community-adapters/ioBroker.find-my-iphone)
 
 ## Description
 
