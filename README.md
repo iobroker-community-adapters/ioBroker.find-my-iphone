@@ -1,3 +1,5 @@
+# This adapter got deprecated and replaced by https://github.com/PfisterDaniel/ioBroker.apple-find-me
+
 <h1>
   <img src="https://raw.githubusercontent.com/ldittmar81/ioBroker.find-my-iphone/master/admin/find-my-iphone.png" width="64"/>
   ioBroker.find-my-iphone
